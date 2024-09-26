@@ -211,4 +211,4 @@ jobs:
 <br>
 
 ## 🧵 결론 및 고찰
-> Trivy를 사용해 앞서 최적화를 진행한 Docker 이미지에 대한 취약점을 직접 진단함으로써 보안 강화의 중요성을 재고했으며, GitHub Actions와 Code scanning 등과 같은 기능을 활용하여 CI 프로세스를 최적화할 수 있었습니다.
+> Trivy를 사용해 앞서 최적화를 진행한 Docker 이미지에 대한 취약점을 직접 진단함으로써 **보안 강화의 중요성**을 재고했으며, GitHub Actions와 Code scanning 등과 같은 기능을 활용하여 **CI 프로세스를 최적화**할 수 있었습니다.
