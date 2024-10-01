@@ -2,6 +2,7 @@
 
 ## 🧹 개요
 > 취약점 분석 자동화를 목표로합니다. 개발자들은 평소대로 git push를 사용하면 되고, 인프라 관리자는 trivy cli 명령어를 일일이 실행하지 않아도 됩니다. 코드가 push 되면 자동으로 도커 이미지를 빌드하면서 취약점을 분석하고 문제 시 슬랙으로 알람을 보냅니다.
+![image](https://github.com/user-attachments/assets/2d92ac03-e2d1-4e7e-a9aa-cd83249808d9)
 
 
 <br>
